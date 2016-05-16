@@ -2,4 +2,4 @@
 
 ## Screenshot
 
-![Screenshot](http://i.imgur.com/lFBhCbJ.gifv)
+![Screenshot](http://i.imgur.com/lFBhCbJ.gif)
